@@ -1,0 +1,29 @@
+{
+    "00038": 
+            {
+                "name":"Red Cake",
+                "type":"signature",
+                "price": "$300",
+                "type": "Wedding Cake",
+                "description": "A red red red red red red red red red red red red red red red red red red red red red red red cake",
+                "discount":"90",
+                "imgurl":"images/red_cake.jpg",
+                "dimension":"10 (diameter) x 4 (height) inch",
+                "warning":"milk, nuts, fruits",
+                "availability":"Yes"
+            },
+    "00037":
+            {
+                "name":"Blue Cake",
+                "type":"signature",
+                "price": "$400",
+                "type": "Cake",
+                "description":"A blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue blue cake",
+                "discount":"0",
+                "imgurl":"images/blue_cake.jpg",
+                "dimension":"9 (diameter) x 5 (height) inch",
+                "warning":"milk, fruits",
+                "availability":"Yes"
+            }
+            
+}
